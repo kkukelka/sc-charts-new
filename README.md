@@ -1,4 +1,4 @@
-# sc-charts: Soundcloud charts data scraper
+# sc-charts: Soundcloud charts web scraper
 
 ## Getting started
 The scripts provided allow the collection of various kinds of data from [Soundcloud Charts - Top 50](https://soundcloud.com/charts/top).
